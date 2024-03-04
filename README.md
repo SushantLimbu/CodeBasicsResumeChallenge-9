@@ -1,5 +1,5 @@
 # CodeBasicsResumeChallenge-9
-# AtliQ Mart Promotions Analysis Project
+## AtliQ Mart Promotions Analysis Project
 
 ## Overview
 AtliQ Mart, a retail giant in southern India, conducted massive promotions during Diwali 2023 and Sankranti 2024 on their AtliQ branded products. This analysis aims to provide insights into the effectiveness of these promotions, helping the Sales Director, Bruce Haryali, make informed decisions for future promotional periods.
@@ -31,6 +31,4 @@ AtliQ Mart, a retail giant in southern India, conducted massive promotions durin
 - **Actionable Insights**: Suggestions for future promotional strategies based on data analysis.
 - **Video Presentation**: [Link to Video Presentation]
 
-## Additional Information
-- **Timeline**: Immediate delivery as per request.
-- **Contact**: For any questions or clarifications, reach out to Peter Pandey (Curious Data Analyst) or Tony Sharma (Analytics Manager).
+
